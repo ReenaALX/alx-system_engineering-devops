@@ -1,3 +1,2 @@
 #!/bin/bash
-4-owner, g-group, execution permission x
 chmod ug+x, o+r hello
