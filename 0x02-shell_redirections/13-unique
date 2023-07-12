@@ -1,0 +1,2 @@
+#!/bin/bash
+grep space "root" space /etc/passwd
